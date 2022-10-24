@@ -1,0 +1,40 @@
+20:59:51.495 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+20:59:51.497 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+20:59:57.548 [main] ERROR com.browserstack.LocalFactory - Initialization of BrowserStack Local failed com.browserstack.local.LocalException: Auth Token must be alphanumeric characters only. Please fetch it from Local Testing section of settings page:  https://www.browserstack.com/accounts/settings.
+21:02:56.214 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+21:02:56.216 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+21:03:01.912 [main] ERROR com.browserstack.LocalFactory - Initialization of BrowserStack Local failed com.browserstack.local.LocalException: Either another browserstack local client is running on your machine or some server is listening on port 45690.
+21:03:56.906 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+21:03:56.908 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+21:04:02.399 [main] ERROR com.browserstack.LocalFactory - Initialization of BrowserStack Local failed com.browserstack.local.LocalException: Either another browserstack local client is running on your machine or some server is listening on port 45690.
+21:04:27.991 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+21:08:24.569 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+21:29:23.852 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+21:30:42.727 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+21:32:42.751 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+11:32:34.173 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+11:33:16.696 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+11:37:52.609 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+11:40:42.353 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+11:43:13.190 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+11:52:00.237 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+12:07:11.415 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+12:10:11.720 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+12:11:36.865 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+12:22:12.945 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+12:48:37.849 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+12:49:14.296 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+16:48:56.448 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+17:38:54.360 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+17:48:00.453 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+17:50:48.834 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+17:56:42.426 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+18:00:53.880 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+18:05:58.641 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+18:09:39.063 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+18:30:43.008 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+12:57:05.359 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+12:58:50.889 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+13:00:02.941 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+13:05:56.042 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+13:42:25.549 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
